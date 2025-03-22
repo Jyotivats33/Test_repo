@@ -1,0 +1,464 @@
+{
+  "rules": [
+    {
+      "rule_id": 1,
+      "description": "Loans to U.S. banks and other U.S. depository institutions (FR Y-",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Loans to foreign banks (FR Y-9C, Schedule HC-C, item 2.b);",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Loans to finance agricultural production and other loans to",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Commercial and industrial loans to U.S. addresses (FR Y-9C,",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Commercial and industrial loans to non-U.S. addresses (FR Y-9C,",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Loans to foreign governments and official institutions (including",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Loans to nondepository financial institutions (FR Y-9C, Schedule",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 8,
+      "description": "All other loans, excluding consumer loans (FR Y-9C, Schedule HC-",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 9,
+      "description": "All other leases, excluding consumer leases (FR Y-9C, Schedule",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 10,
+      "description": "Loans secured by owner-occupied nonfarm nonresidential",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 11,
+      "description": "Loans secured by owner-occupied nonfarm nonresidential",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Yes, agent in syndication or",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Yes, syndicate/participant",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Yes, agent in Shared",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "First-Lien Senior",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Second Lien",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Senior Unsecured",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Contractually Subordinated",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Entirely fee based",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "LIBOR",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "PRIME or Base",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Treasury Index",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Other",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Mixed",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Partial guarantee",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "U.S. Government Agency",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "LOCOM",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "FVO",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "NA",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Transfer to another Y-14",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 0,
+      "description": "Active - Report for all credit facilities required to be schedule",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "Payoff \u2013 Report all instances where the credit facility has",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Involuntary Payoff \u2013 Report all instances where the credit",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Involuntary Liquidation \u2013 Report all instances where the",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Sold or fully participated \u2013 Report all instances where the",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Fully Syndicated \u2013 Report all instances where 100% of the",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Below reporting threshold \u2013 Report all instances where the",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Transfer to another Y-14 schedule. Indicate the schedule",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 8,
+      "description": "Expired Commitment to Commit",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "DO NOT USE.",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Loans secured by other",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "DO NOT USE.",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Loans secured by CRE",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Yes, agent in syndication but",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Yes, syndicate/participant in",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Yes, agent in Shared National",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Multi-family for Rent",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Homebuilders except condo",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 8,
+      "description": "Mixed",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 9,
+      "description": "Land and Lot",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 10,
+      "description": "Other",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 11,
+      "description": "Healthcare (including",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 12,
+      "description": "Warehouse/Distribution",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 49,
+      "description": "Additionally, exclude all renewals which meet",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Partial",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "None",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Land Acquisition &",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Construction Other",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "DO NOT USE.",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "DO NOT USE.",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Acquisition (nonowner",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Refinance",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Floating",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Mixed",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Entirely fee based",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "PRIME or Base",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Treasury Index",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Other",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Not applicable (Fixed or",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Mixed",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "SOFR",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Involuntary payoff",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 0,
+      "description": "Active \u2013 Report for all credit facilities",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "Payoff \u2013 Report all instances where the credit",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Involuntary Payoff \u2013 Report all instances",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Involuntary Liquidation \u2013 Report all",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Sold or fully participated \u2013 Report all",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Below reporting threshold- Report all",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Transfer to another Y-14 schedule \u2013 Report",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Expired Commitment to Commit",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 20,
+      "description": "e.g.: 20000000",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "Hybrid",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 1,
+      "description": "Student Loans Student loans in line 6.d of schedule HC-C of the FR Y-9C",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 2,
+      "description": "Other Consumer",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 3,
+      "description": "First Lien",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 4,
+      "description": "Junior Lien",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 5,
+      "description": "Bank and Charge Cards",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 6,
+      "description": "Auto",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 7,
+      "description": "Commercial Real Estate",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 8,
+      "description": "Loans Secured by Farmland",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 9,
+      "description": "Commercial and Industrial",
+      "reporting": "Report as per regulatory guidelines."
+    },
+    {
+      "rule_id": 10,
+      "description": "Graded Other Loans",
+      "reporting": "Report as per regulatory guidelines."
+    }
+  ]
+}
